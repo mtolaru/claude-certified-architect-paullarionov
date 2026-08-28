@@ -11,7 +11,8 @@ This repository contains study materials for the **Claude Certified Architect â€
 ## Course Access
 
 - Certification is currently restricted to members of the Anthropic Partner Network and requires registration with a verified partner company email. Claude Partner Network: https://claude.com/partners
-- Free for the first 5,000 partner company employees. General availability will be $99.
+- The exam fee is $125 per attempt as of the mid-2026 exam guide (the $99 early-access price and the free-first-5,000 waiver have ended). Delivery moved to Pearson VUE in July 2026: https://www.pearsonvue.com/us/en/anthropic.html
+- Independent engineers without a qualifying company typically register through an existing partner firm's roster. How that route works: https://youraidept.com/network/claude-certification (disclosure: guide maintained by YAID, a partner firm)
 - To request access to the official course/exam portal, use this link: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
 
 ## Study Guide
